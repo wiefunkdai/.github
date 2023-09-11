@@ -233,7 +233,7 @@ Written by [@wiefunkdai][author] &lt;[stephanusdai.web.id][link]&gt;.
     ·
     <a href="https://github.com/wiefunkdai/.github/issues/new/choose">Global Issues</a>
     ·
-    <a href="https://github.com/wiefunkdai/discussions">Global Discussions</a>
+    <a href="https://github.com/wiefunkdai/.github/discussions">Global Discussions</a>
     ·
     <a href="https://github.com/wiefunkdai/.github/wiki">Global Wiki</a>
 </p>
