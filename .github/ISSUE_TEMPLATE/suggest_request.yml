@@ -1,0 +1,18 @@
+name: "💌 Give the Best Critical Suggestions or Feedback"
+description: "Suggest better actions developer could have taken. Describe the likely or desired results from your suggested actions."
+title: "💌 I Love You"
+labels: [
+  "question"
+]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: If you have other input, comments, suggests, ideas on how to best development 🤓, etc.
+      placeholder: |
+        I am very interested in your talent!
+        And I am very grateful and looking forward to your next works.
+        Thank you for the knowledge that has been shared 💜 
+    validations:
+      required: true

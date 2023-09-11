@@ -1,0 +1,40 @@
+name: "💡 Give Your Idea or New Feature Request"
+description: What important features do you think I need to develop? Please feel free to send feature requests or any suggestions with your need.
+title: "💡 [REQUEST] - <title>"
+labels: [
+  "enhancement",
+  "question"
+]
+body:
+  - type: textarea
+    attributes:
+      label: Proposal
+      description: Use case. Why is this important?
+      placeholder: “Nice to have” is not a good use case. :)
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: >-      
+        ## \*Notice: please read this before continue..        
+        
+        Please do *NOT* ask support questions in Github issues.<br><br>       
+
+        All Free Open Sources are provided by me under the terms of the following [BSD License](https://github.com/wiefunkdai/.github/blob/main/LICENSE.md).
+
+        If your issue is not a feature request or bug report use [discussions](https://github.com/wiefunkdai/.github/discussions).
+
+        Get all the information you need via [wiki](https://github.com/wiefunkdai/.github/wiki) for instructions or complete steps.
+
+        It’s also possible to support mine financially by becoming a backer or sponsor or donor through<br>
+        [![github.com/sponsors/wiefunkdai](https://img.shields.io/badge/%20GitHub%20Sponsors%20-gray.svg?colorA=c31432&colorB=240b36&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/sponsors/wiefunkdai)
+        [![opencollective.com/wiefunkdai](https://img.shields.io/badge/%20Open%20Collective%20-gray.svg?colorA=355C7D&colorB=2980B9&style=for-the-badge&logo=opencollective&logoColor=white)](https://www.opencollective.com/wiefunkdai)
+        [![paypal.me/wiefunkdai](https://img.shields.io/badge/%20Donate%20Paypal%20-gray.svg?colorA=2C5364&colorB=0F2027&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/wiefunkdai)
+        
+        Or you can also give me career opportunities to help your business in developing the software you need.<br>
+        [![wiefunk@stephanusdai.web.id](https://img.shields.io/badge/%20Send%20Mail%20-gray.svg?colorA=EA4335&colorB=93291E&style=for-the-badge&logo=gmail&logoColor=white)](mailto:wiefunk@stephanusdai.web.id)
+        [![linkedin.com/in/wiefunkdai](https://img.shields.io/badge/%20LinkedIn%20-gray.svg?colorA=005AA7&colorB=0083B0&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wiefunkdai)
+
+        <hr>
+        Copyright &copy; ID 2023 by Stephanus Bagus Saputra. All rights reserved.
+        

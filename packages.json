@@ -1,0 +1,11 @@
+{
+  "name": "@wiefunkdai/.github",
+  "description": "The Root store for document and others of StephanusDai",
+  "repository": "https://github.com/wiefunkdai/.github",
+  "license": "(CC-BY-4.0 AND CC-BY-SA-4.0)",
+  "author": {
+    "name": "Stephanus Bagus Sapura",
+    "email": "wiefunk@stephanusdai.web.id",
+    "url": "https://www.stephanusdai.web.id"
+  }
+}

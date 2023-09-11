@@ -1,0 +1,90 @@
+name: "🐛 Send Us Your Feedback and Report Bugs"
+description: "When you encounter crashes, kernel panics, hardware bugs, or printing issues, you must include a Software or Open Source Information Report with your feedback."
+title: "🐛 Bug Report for <title>"
+labels: [
+  "bug"
+]
+body:
+  - type: input
+    id: reprod-url
+    attributes:
+      label: "Reproduction URL"
+      description: Please enter your GitHub URL to provide a reproduction of the issue
+      placeholder: ex. https://github.com/USERNAME/REPO-NAME
+    validations:
+      required: true
+  - type: textarea
+    id: reprod
+    attributes:
+      label: "Reproduction steps"
+      description: What another person has to do to see the bug (sometimes there is only one step)
+      placeholder: |
+        1. Open Android Studio Application.
+        2. Select "Run" in the top context menu
+        3. Click "Run 'app'" menu.
+        4. See error
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: "Current behaviour"
+      description: What happens? Explanation please [e.g. "*The background is too plain!*"]
+      placeholder: |
+        Why and how to resolve this error?
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Expected behaviour"
+      description: What should happen? Explanation please [e.g. "*Try to provide interesting images*"]
+      placeholder: |
+        Provided a solution to the problem.
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: comment
+    attributes:
+      label: "Other comment (optional)"
+      description: If you have other input, comments, ideas on how to fix 🤓, etc.
+      placeholder: |
+        I am very interested in your talent!
+        And I am very grateful and looking forward to your next works.
+        Thank you for the knowledge that has been shared 💜 
+    validations:
+      required: false
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "Screenshots (optional)"
+      description: |
+        It's often helpful to take a screenshot to be accurate.
+        > To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL.
+      placeholder: |
+        * If more than two images are available, put one blank line before marking the next image. for example:
+        ![Error Build Android](https://i.imgur.com/YKV5bwp.png)   
+        
+        ![Error Build Android](https://i.imgur.com/YKV5bwp.png)
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: >-   
+        \*the image below is an example of a screenshot of the error or bug in question:<br>
+        <img width="300px" align="center" src="https://i.imgur.com/YKV5bwp.png" alt="Example Error Report Picture"/>
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Logs (optional)"
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      placeholder: |
+        gcloud logging write test-log --severity=ERROR --payload-type=text 'RuntimeException: Oops! Something bad happened.
+        at com.example.MyClass.method(MyClass.java:123)
+        at com.example.OtherClass.doStuff(Unknown Source)
+        at com.example.Sys.create(Native Method)'
+      render: bash
+    validations:
+      required: false

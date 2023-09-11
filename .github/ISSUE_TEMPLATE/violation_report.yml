@@ -1,0 +1,71 @@
+name: "👤 Help to Report Violation Regarding Digital Copyright"
+description: "If you are concerned about a violation committed by a certain person regarding the copyright of 'StephanusDai'."
+title: "👤 Violation - <title>"
+labels: [
+  "help wanted", "invalid"
+]
+body:
+  - type: input
+    id: reprod-url
+    attributes:
+      label: "Reproduction URL"
+      description: Please enter your GitHub URL to provide a reproduction of the issue.
+      placeholder: ex. https://github.com/USERNAME/REPO-NAME
+    validations:
+      required: true
+  - type: input
+    id: reference-url
+    attributes:
+      label: "Link Source URL (optional)"
+      description: Enter enter target URL that is problematic for copyright infringement.
+      placeholder: ex. https://domain.com/pages/child/item
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe what happened?"
+      description: Explain what the situation is and what kind of violation they committed.
+      placeholder: |
+        Explain the situation in detail here..
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "Screenshots (optional)"
+      description: |
+        Send picture evidence if available. It's often helpful to take a screenshot or photo to be accurate.
+        > To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL.
+      placeholder: |
+        ![Copyright Matter Or Other Title](https://i.imgur.com/qhbrRva.png)
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: >-   
+        \*the image below is an example of an illustrative image of copyright infringement:<br>
+        <img width="300px" align="center" src="https://i.imgur.com/qhbrRva.png" alt="Copyright Matter Example"/>
+  - type: markdown
+    attributes:
+      value: >-      
+        ## What constitutes a violation?
+        
+        The following are some of the violations in question:
+        
+        - **Copyright Matter**<br>
+        Do not include the name or creator or alias of the creator for the use of his work. 
+        Even modifying and publishing other people's works and using their personal names (plagiarism).
+        *for ex. distribute or modify the source content by removing the owner's copyright mark.*
+        
+        - **Commercial Purposes**<br>
+        Using content for commercial purposes without having permission from the original user.
+        *for ex. a developer uses some of the work resources belonging to others and for trading without the permission of the original owner.*
+
+        - **Abuse of Freedom**<br>
+        Changing a work according to the needs of society, whether through distortion, mutilation, modification of the work, or anything that is detrimental to the creator's self or reputation
+        *for ex. a developer changes the contents of the content and then publishes it, but the results are even worse due to the intentional damage to the image of the content owner.*<br>
+
+        
+        Free Open Sources are provided by 'StephanusDai' under the terms of the following [`BSD-3 Clause License`](https://github.com/seilongdarkgonist/.github/blob/main/LICENSE.md)<br>
+        See [License](https://github.com/seilongdarkgonist/.github/blob/main/LICENSE.md) to details.
