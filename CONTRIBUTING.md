@@ -13,7 +13,7 @@ Please read through the following guidelines.
 
 **Here are some resources to help you get started with open source contributions:**
 
-- [Community Guidelines](crown-community-guidelines)
+- [Community Guidelines](#crown-community-guidelines)
 - [Finding Good, Filing Bugs and Change Requests](#eyes-finding-good-filing-bugs-and-change-requests)
 - [Asking Any Questions Support](#bulb-asking-any-questions-support)
 - [Submitting and Reporting Security Issues](#inbox_tray-submitting-and-reporting-security-issues)
@@ -193,7 +193,9 @@ If you are using this project and are happy with it or just want to encourage me
 
 However, I am available for hire. You can also give me career opportunities to help your business in developing the software you need. Please contact me at:<br>
 [![wiefunk@stephanusdai.web.id](https://img.shields.io/badge/%20Send%20Mail%20-gray.svg?colorA=EA4335&colorB=93291E&style=for-the-badge&logo=gmail&logoColor=white)](mailto:wiefunk@stephanusdai.web.id)
-[![linkedin.com/in/wiefunkdai](https://img.shields.io/badge/%20LinkedIn%20-gray.svg?colorA=005AA7&colorB=0083B0&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wiefunkdai)
+[![t.me/wiefunkdai](https://img.shields.io/badge/%20Telegram%20-gray.svg?colorA=2C5364&colorB=0083B0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wiefunkdai)
+[![linkedin.com/in/wiefunkdai](https://img.shields.io/badge/%20LinkedIn%20-gray.svg?colorA=005AA7&colorB=004e92&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wiefunkdai)
+
 
 ## :pushpin: Author and Credits
 
@@ -248,15 +250,15 @@ Written by [@wiefunkdai][author] &lt;[stephanusdai.web.id][link]&gt;.
 
 [link]: https://stephanusdai.web.id
 
-[bsd]: https://github.com/wiefunkdai/.github/blob/main/LICENSE.md
+[bsd]: https://github.com/wiefunkdai/.github/blob/master/LICENSE.md
 
-[cc-by]: https://github.com/wiefunkdai/.github/blob/main/LICENSE.md
+[cc-by]: https://github.com/wiefunkdai/.github/blob/master/LICENSE.md
 
-[code-of-conduct]: https://github.com/wiefunkdai/.github/blob/main/CODE_OF_CONDUCT.md
+[code-of-conduct]: https://github.com/wiefunkdai/.github/blob/master/CODE_OF_CONDUCT.md
 
-[support]: https://github.com/wiefunkdai/.github/blob/main/SUPPORT.md
+[support]: https://github.com/wiefunkdai/.github/blob/master/SUPPORT.md
 
-[security]: https://github.com/wiefunkdai/.github/blob/main/SECURITY.md
+[security]: https://github.com/wiefunkdai/.github/blob/master/SECURITY.md
 
 [sponsor]: https://github.com/sponsors/wiefunkdai
 

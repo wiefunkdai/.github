@@ -146,7 +146,8 @@ You must give appropriate credit, provide a link to the license, and indicate if
 
 However, I am available for hire. For details on contracting and consulting, or you can also give me career opportunities to help your business in developing the software you need. Please contact me at:<br>
 [![wiefunk@stephanusdai.web.id](https://img.shields.io/badge/%20Send%20Mail%20-gray.svg?colorA=EA4335&colorB=93291E&style=for-the-badge&logo=gmail&logoColor=white)](mailto:wiefunk@stephanusdai.web.id)
-[![linkedin.com/in/wiefunkdai](https://img.shields.io/badge/%20LinkedIn%20-gray.svg?colorA=005AA7&colorB=0083B0&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wiefunkdai)
+[![t.me/wiefunkdai](https://img.shields.io/badge/%20Telegram%20-gray.svg?colorA=2C5364&colorB=0083B0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wiefunkdai)
+[![linkedin.com/in/wiefunkdai](https://img.shields.io/badge/%20LinkedIn%20-gray.svg?colorA=005AA7&colorB=004e92&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wiefunkdai)
 
 <div align="center">
 
@@ -184,23 +185,23 @@ However, I am available for hire. For details on contracting and consulting, or 
 
 [hire-me]: https://linkedin.com/in/wiefunkdai
 
-[chat]: https://github.com/wiefunkdaiofficial/discussions
+[chat]: https://github.com/wiefunkdai/.github/discussions
 
 [stackoverflow]: https://stackoverflow.com/users/22522142/stephanus-dai
 
-[license]: https://github.com/wiefunkdai/.github/blob/main/LICENSE.md
+[license]: https://github.com/wiefunkdai/.github/blob/master/LICENSE.md
 
-[license-doc]: https://github.com/wiefunkdai/.github/blob/main/LICENSE.md
+[license-doc]: https://github.com/wiefunkdai/.github/blob/master/LICENSE.md
 
-[bsd]: https://github.com/wiefunkdai/.github/blob/main/LICENSE.md
+[bsd]: https://github.com/wiefunkdai/.github/blob/master/LICENSE.md
 
-[cc-by]: https://github.com/wiefunkdai/.github/blob/main/LICENSE.md
+[cc-by]: https://github.com/wiefunkdai/.github/blob/master/LICENSE.md
 
-[security]: https://github.com/wiefunkdai/.github/blob/main/SECURITY.md
+[security]: https://github.com/wiefunkdai/.github/blob/master/SECURITY.md
 
-[contributing]: https://github.com/wiefunkdai/.github/blob/main/CONTRIBUTING.md
+[contributing]: https://github.com/wiefunkdai/.github/blob/master/CONTRIBUTING.md
 
-[code-of-conduct]: https://github.com/wiefunkdai/.github/blob/main/CODE_OF_CONDUCT.md
+[code-of-conduct]: https://github.com/wiefunkdai/.github/blob/master/CODE_OF_CONDUCT.md
 
 [rubberduck]: https://rubberduckdebugging.com
 

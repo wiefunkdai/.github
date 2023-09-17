@@ -41,9 +41,9 @@ You must give appropriate credit, provide a link to the license, and indicate if
 
 [link]: https://www.stephanusdai.web.id
 
-[license]: https://github.com/wiefunkdai/.github/blob/main/LICENSE_CODE
+[license]: https://github.com/wiefunkdai/.github/blob/master/LICENSE_CODE
 
-[license-doc]: https://github.com/wiefunkdai/.github/blob/main/LICENSE_DOC
+[license-doc]: https://github.com/wiefunkdai/.github/blob/master/LICENSE_DOC
 
 [bsd]: https://opensource.org/license/bsd-3-clause
 
